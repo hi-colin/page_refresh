@@ -10,3 +10,4 @@ $interval_time = 5;
 * 控制台 执行 php index.php
 
 #### 结果示例
+![page-refresh_result](https://github.com/hi-colin/page_refresh/blob/main/images/page_refresh.png "page_refresh_result.png")
