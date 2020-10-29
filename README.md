@@ -1,13 +1,13 @@
 # page_refresh
-页面刷新脚本
+page refresh script
 
-#### 使用方法
-* 修改 链接地址 和 间隔时间
+#### usage
+* modify `$url` and `$interval_time`
 ```
 $url = 'https://www.baidu.com';
 $interval_time = 5;
 ```
-* 控制台 执行 php index.php
+* console execute `php index.php`
 
-#### 结果示例
+#### result
 ![page-refresh_result](https://github.com/hi-colin/page_refresh/blob/main/images/page_refresh.png "page_refresh_result.png")
